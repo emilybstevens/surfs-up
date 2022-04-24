@@ -1,7 +1,7 @@
 # surfs-up
 
 ## Overview of Statistical Analysis
-purpose of the analysis is well-defined
+To investigate the potential for year-round business sustainability of an ice cream shop in Oahu based on year-round temperature data. 
 
 ## Results
 1. June had a higher average temperature (74.9 degrees) compared to December (71.0 degrees). 

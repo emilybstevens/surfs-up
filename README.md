@@ -9,4 +9,6 @@
 3. June had a higher max temperature (85.0 degrees) compared to December (83.0 degrees). 
 
 ## Summary
-- high-level summary of the results and there are two additional queries to perform to gather more weather data for june and december 
+high-level summary of the results and there are two additional queries to perform to gather more weather data for june and december</br>
+![June Stats](Resources/june_statistics.png)
+![Dec Stats](Resources/dec_statistics.png)

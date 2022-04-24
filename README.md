@@ -17,10 +17,9 @@ temperature of Oahu remained relatively consistent throughout the year, with the
 between June and December. </br>
 ![June Stats](Resources/june_statistics.png)
 ![Dec Stats](Resources/dec_statistics.png) </br>
-```
-The likelihood of being able to sustain an ice cream business in both summer and winter months is high, given the consistency in 
-temperatures throughout the year.
-```
+**The likelihood of being able to sustain an ice cream business in both summer and winter months is high, given the consistency in 
+temperatures throughout the year.**
+
 ### Additional Queries
 Between June and December, December had higher average rainfall, as well as a higher max rainfall. Still, the rainfall 
 does not differ too much so as to provide a problem for the ice cream business. Even though December is rainier than June, 

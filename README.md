@@ -1,7 +1,7 @@
 # surfs-up
 
 ## Overview of Statistical Analysis
-- purpose of the analysis is well-defined
+purpose of the analysis is well-defined
 
 ## Results
 1. June had a higher average temperature (74.9 degrees) compared to December (71.0 degrees). 
@@ -9,6 +9,12 @@
 3. June had a higher max temperature (85.0 degrees) compared to December (83.0 degrees). 
 
 ## Summary
-high-level summary of the results and there are two additional queries to perform to gather more weather data for june and december</br>
+### Temperature Statistics
 ![June Stats](Resources/june_statistics.png)
 ![Dec Stats](Resources/dec_statistics.png)
+
+### Additional Queries
+#### June Precipitation Statistics
+![June Prcp](Resources/june_prcp.png)
+#### December Precipitation Statistics
+![Dec Prcp](Resources/dec_prcp.png)
